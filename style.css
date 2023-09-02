@@ -1,0 +1,54 @@
+
+body{
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+
+
+.cart img {
+    height: 40px;
+    width: 50px;
+}
+
+.heart img{
+    height: 40px;
+    width: 40px;   
+}
+
+.contact img{
+    width: 20px;
+    height: 20px;   
+}
+
+.a-1{
+    gap: 40px;
+}
+
+ .chair{
+    padding: 100px;
+}
+
+.b-3 img{
+    height: 20px;
+    width: 10px;
+}
+
+.d-4{
+    gap: 50px;
+}
+
+.c-3 img{
+    height: 20px;
+    width: 20px;
+}
+
+.c-3 {
+   margin-left: 140px; 
+}
+
+.footer{
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
